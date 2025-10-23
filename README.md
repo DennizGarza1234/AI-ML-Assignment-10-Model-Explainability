@@ -41,7 +41,9 @@ Overall, the model’s misclassification was driven by **feature attributions co
 ---
 
 ## Youtube Link
+https://youtu.be/tf3FT6fC1uM
 
+---
 
 ## Description
 This project demonstrates **Explainable AI (XAI)** applied to a CNN trained on MNIST.  
